@@ -1,0 +1,5 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\bin\Release\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\bin\Release\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Release\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Release\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Release\Apex7000_BillValidator.csprojResolveAssemblyReference.cache

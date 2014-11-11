@@ -1,0 +1,30 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.exe.config
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.exe
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\MainWindow.baml
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\MainWindow.g.cs
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\App.g.cs
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test_MarkupCompile.cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.g.resources
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.Properties.Resources.resources
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.csproj.GenerateResource.Cache
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.exe
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.exe.config
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.exe
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.exe
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator_Test.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\bin\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\MainWindow.baml
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\MainWindow.g.cs
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\App.g.cs
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test_MarkupCompile.cache
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.g.resources
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.Properties.Resources.resources
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator_Test\obj\Debug\Apex7000_BillValidator_Test.csproj.GenerateResource.Cache

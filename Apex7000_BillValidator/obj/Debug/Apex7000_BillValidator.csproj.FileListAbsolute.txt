@@ -1,0 +1,10 @@
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\bin\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\bin\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Documents\Visual Studio 2013\Projects\Stoked\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.csprojResolveAssemblyReference.cache
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator\bin\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator\bin\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.dll
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.pdb
+C:\Users\sam.bengtson.TWVENDING\Desktop\Pyramid\Apex7000_BillValidator\obj\Debug\Apex7000_BillValidator.csprojResolveAssemblyReference.cache
